@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: third post
 description: here's the third post
 date: 2021-06-09T04:00:00.000Z
-featuredImage: images/uploads/curry_gull.png
+featuredImage: /images/uploads/curry_gull.png
 ---
 Yet another post testing the whole workflow.
 
