@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: third post
-description: Here's the third post.
+description: here's the third post
 date: 2021-06-09T04:00:00.000Z
 featuredImage: images/uploads/curry_gull.png
 ---
