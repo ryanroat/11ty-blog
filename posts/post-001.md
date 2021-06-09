@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: first post
 description: My first post on my self-built and deployed blog
 date: 2021-06-09
-featuredImage: /images/uploads/RSR01.jpg
+featuredImage: images/uploads/RSR01.jpg
 ---
 
 Hello world!  
