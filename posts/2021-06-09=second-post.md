@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: second post
 description: My second post, published from Netlify CMS
 date: 2021-06-09T04:00:00.000Z
-featuredImage: https://i1.wp.com/superproracing.com/wp-content/uploads/2015/02/hello-is-this-thing-on.jpg
+featuredImage: /images/uploads/hello-is-this-thing-on-1-.jpg
 ---
 **IS THIS THING ON?**
 
