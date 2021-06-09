@@ -1,0 +1,29 @@
+{
+  "name": "11ty-blog",
+  "version": "1.0.0",
+  "description": "blog built with 11ty deployed with Netlify CMS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanroat/11ty-blog.git"
+  },
+  "keywords": [
+    "javascript",
+    "11ty",
+    "netlify",
+    "CMS",
+    "blog"
+  ],
+  "author": "Ryan Roat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryanroat/11ty-blog/issues"
+  },
+  "homepage": "https://github.com/ryanroat/11ty-blog#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1"
+  }
+}
