@@ -1,11 +1,26 @@
-<html>
-    <head>
-        <title>Ryan Roat's blog</title>
-    </head>
-
-    <body>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="/css/normalize.css">
+  <link rel="stylesheet" href="/css/index.css">
+  <title>Ryan Roat's blog</title>
+</head>
+  <body>
+    <div class="container">
+      <nav class="navbar">
+        <ul class="navbar-nav">
+          <li class="nav-item">Home</li>
+          <li class="nav-item">About</li>
+          <li class="nav-item">Search</li>
+        </ul>
+      </nav>
+      <header class="header">
         <h1>Ryan Roat's blog</h1>
-        <a href="/posts/">return to list of posts</a>
+      </header>
+      <a href="/posts/">return to list of posts</a>
 <h2>first post</h2>
 <a href="/images/uploads/RSR01.jpg">
   <img src="/images/uploads/RSR01.jpg" alt="/images/uploads/RSR01.jpg" height="150"></img>
@@ -14,5 +29,6 @@
 <p>This is the first post on my self-built and deployed blog.  I'm learning how to use <a href="https://www.11ty.dev/">11ty</a> to build static sites and autodeploy them to <a href="https://www.netlify.com/">Netlify</a> from <a href="https://github.com/ryanroat/11ty-blog">Github</a> when I push an update.<br>
 This version of the blog is utilizing <a href="https://mozilla.github.io/nunjucks/">Nunjucks templating</a> although I want to learn to use <a href="https://ejs.co/">EJS</a> with 11ty as well.</p>
 </p>
-    </body>
+    </div>
+  </body>
 </html>
