@@ -49,3 +49,17 @@ a {
   text-transform: capitalize;
   font-size: 1.5rem;
 }
+
+.post-list-desc {
+  font-size: 1.25rem;
+}
+
+.post-title {
+  text-transform: capitalize;
+}
+
+.post-content {
+  padding: 2rem;
+  margin: 0 auto;
+  text-align: left;
+}

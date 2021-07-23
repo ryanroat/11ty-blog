@@ -4,7 +4,7 @@ title: adding CSS to my 11ty blog
 description: until today, the blog had only default browser styles...now I can
   use my own CSS
 date: 2021-07-22T04:00:00.000Z
-featuredImage: images/uploads/11ty-balloon.png
+featuredImage: /images/uploads/11ty-balloon.png
 ---
 Hello!
 

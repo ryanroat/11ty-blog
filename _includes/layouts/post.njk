@@ -2,8 +2,10 @@
 layout: layouts/base.njk
 ---
 <a href="/posts/">return to list of posts</a>
-<h2>{{ title }}</h2>
+<h2 class="post-title">{{ title }}</h2>
 <a href="{{ featuredImage | url }}">
   <img src="{{ featuredImage | url }}" alt="{{ featuredImage }}" height="150"></img>
 </a>
-<p>{{ content | safe }}</p>
+<section class="post-content">
+  <p class="post-content">{{ content | safe }}</p>
+</section>
