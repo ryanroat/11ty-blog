@@ -34,11 +34,18 @@ a {
   color: currentColor;
 }
 
-
-
 .header {
   text-transform: uppercase;
   font-size: 2.5 rem;
   padding-bottom: 2rem;
+}
 
+.post-list {
+  padding-left: 2rem;
+  text-align: left;
+}
+
+.post-list-title {
+  text-transform: capitalize;
+  font-size: 1.5rem;
 }
